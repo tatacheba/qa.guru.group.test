@@ -1,4 +1,4 @@
-package junit;//testing brunch
+package junit;//prod brunch
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.Test;
